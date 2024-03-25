@@ -26,5 +26,10 @@
   - name: Run update
     apt:
      update_cache: yes
+  - name: Install Docker
+    package:
+     name: docker-ce
+     state: present
+     
      
     
