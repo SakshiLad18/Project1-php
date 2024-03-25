@@ -1,0 +1,29 @@
+Mar 25, 2024 6:08:21 PM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: Jenkins Test Node
+Mar 25, 2024 6:08:22 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3206.vb_15dcf73f6a_9
+Mar 25, 2024 6:08:22 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/user/projCert-master/remoting as a remoting work directory
+Mar 25, 2024 6:08:22 PM hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://user-virtual-machine:8080/]
+Mar 25, 2024 6:08:23 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Mar 25, 2024 6:08:23 PM hudson.remoting.Launcher$CuiListener status
+INFO: Agent discovery successful
+  Agent address: user-virtual-machine
+  Agent port:    41695
+  Identity:      ae:78:bb:d8:fa:73:c5:85:12:5a:6b:27:0f:a4:4e:1a
+Mar 25, 2024 6:08:23 PM hudson.remoting.Launcher$CuiListener status
+INFO: Handshaking
+Mar 25, 2024 6:08:23 PM hudson.remoting.Launcher$CuiListener status
+INFO: Connecting to user-virtual-machine:41695
+Mar 25, 2024 6:08:23 PM hudson.remoting.Launcher$CuiListener status
+INFO: Server reports protocol JNLP4-connect-proxy not supported, skipping
+Mar 25, 2024 6:08:23 PM hudson.remoting.Launcher$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Mar 25, 2024 6:08:24 PM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+Mar 25, 2024 6:08:26 PM hudson.remoting.Launcher$CuiListener status
+INFO: Remote identity confirmed: ae:78:bb:d8:fa:73:c5:85:12:5a:6b:27:0f:a4:4e:1a
+Mar 25, 2024 6:08:26 PM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
